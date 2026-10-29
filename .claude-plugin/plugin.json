@@ -1,8 +1,8 @@
 {
   "name": "userorbit",
   "displayName": "Userorbit",
-  "version": "1.0.0",
-  "description": "Connect customer feedback and product roadmaps to changelog drafts, help center updates, customer onboarding, product tours, and support in Userorbit.",
+  "version": "1.0.16",
+  "description": "Connect customer feedback, roadmaps, support, help content, onboarding, and product insights in Userorbit. Draft release notes and help articles, and send support replies on your instruction.",
   "author": {
     "name": "Userorbit",
     "email": "support@userorbit.com",
@@ -15,12 +15,12 @@
     "customer feedback",
     "feature requests",
     "product roadmap",
+    "customer support",
+    "support inbox",
     "help center",
     "changelog",
     "release notes",
-    "customer support",
     "customer onboarding",
-    "product tours",
     "product analytics"
   ],
   "icon": "./assets/logo.png",

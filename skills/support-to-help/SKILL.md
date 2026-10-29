@@ -13,4 +13,4 @@ Show the proposed title, article draft, and a short evidence summary in chat. Li
 
 When saving is requested and permitted, resolve the help collection and follow the actual available tool schema. Keep the article unpublished and verify its resulting state. Publication, overwriting an existing article, or replying to customers are separate actions and must be part of the user's authorized request.
 
-The public launch supports saving and editing unpublished, unscheduled drafts only. Publish, schedule, send, or edit published content in Userorbit; explain the available draft workflow instead of claiming those actions are supported here.
+Announcement and article draft tools save or edit unpublished, unscheduled drafts only. Other operations may be available with separate permissions; use them only for an explicitly requested action and never imply a draft was published or sent.

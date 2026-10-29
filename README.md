@@ -7,9 +7,10 @@ Connect Claude to your Userorbit workspace to work with customer feedback, produ
 - **Feedback and roadmap**: summarize feature requests by customer problem and show where they sit on your roadmap.
 - **Release review**: turn completed feature requests into a release-note draft, and suggest product tour, checklist, and help center updates for release notes you provide.
 - **Support to help**: group recurring support questions and draft a help article grounded in the conversations and your existing documentation.
-- **Product activity**: chart daily, weekly, and monthly active users, explore event catalogs, and inspect a person's activity history.
+- **Customer support operations**: look up customers, read support threads, and send customer replies or add internal notes when you ask, with delivery status reported back.
+- **Product insights**: chart daily, weekly, and monthly active users, explore event catalogs, check onboarding progress, and inspect a person's activity history.
 
-Drafts are reviewed in chat before anything is saved. Saving drafts and updating records happen only when you ask, within your workspace permissions. Publishing, scheduling, and sending are done in Userorbit.
+Drafts are reviewed in chat before anything is saved. Saving drafts, updating records, and sending support replies happen only when you ask, within your workspace permissions. Announcements and help articles are saved as unpublished drafts; publishing and scheduling are done in Userorbit.
 
 ## Install
 
