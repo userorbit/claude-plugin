@@ -1,0 +1,15 @@
+{
+  "name": "userorbit",
+  "description": "Official Userorbit plugin for Claude.",
+  "owner": {
+    "name": "Userorbit",
+    "email": "support@userorbit.com"
+  },
+  "plugins": [
+    {
+      "name": "userorbit",
+      "source": "./",
+      "description": "Customer feedback, roadmaps, release-note drafts, help center drafts, and support in Userorbit."
+    }
+  ]
+}

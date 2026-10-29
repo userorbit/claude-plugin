@@ -1,0 +1,31 @@
+{
+  "name": "userorbit",
+  "displayName": "Userorbit",
+  "version": "1.0.0",
+  "description": "Connect customer feedback and product roadmaps to changelog drafts, help center updates, customer onboarding, product tours, and support in Userorbit.",
+  "author": {
+    "name": "Userorbit",
+    "email": "support@userorbit.com",
+    "url": "https://userorbit.com"
+  },
+  "homepage": "https://userorbit.com",
+  "repository": "https://github.com/userorbit/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "customer feedback",
+    "feature requests",
+    "product roadmap",
+    "help center",
+    "changelog",
+    "release notes",
+    "customer support",
+    "customer onboarding",
+    "product tours",
+    "product analytics"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://userorbit.com",
+  "supportUrl": "https://userorbit.com/contact",
+  "privacyPolicyUrl": "https://userorbit.com/privacy",
+  "termsOfServiceUrl": "https://userorbit.com/terms"
+}
