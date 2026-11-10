@@ -13,4 +13,6 @@ Show the proposed title, article draft, and a short evidence summary in chat. Li
 
 When saving is requested and permitted, resolve the help collection and follow the actual available tool schema. Keep the article unpublished and verify its resulting state. Publication, overwriting an existing article, or replying to customers are separate actions and must be part of the user's authorized request.
 
+To add an image to a draft, upload it first: use `userorbit_files_upload` in the public profile, or `userorbit_files` with action `upload` in a legacy profile. Send `filename`, `contentType` (`image/png`, `image/jpeg`, `image/gif` or `image/webp`) and `data` as plain base64 without a `data:` prefix, up to 10 MB. Use the returned `url` in an `<img>` tag in the article draft HTML. Upload only images the user supplied or asked you to use. Uploading requires write permission and is rate limited; after a 429, tell the user instead of retrying in a loop.
+
 Announcement and article draft tools save or edit unpublished, unscheduled drafts only. Other operations may be available with separate permissions; use them only for an explicitly requested action and never imply a draft was published or sent.
